@@ -25,7 +25,7 @@ def format_to_json(msg, imie):
 
 
 def plain_text(msg, imie):
-    return imie + ' ' + msg + 123
+    return imie + ' ' + msg
 
 
 def plain_text_upper_case(msg, imie):
